@@ -121,9 +121,15 @@ HRR = (((1.35 / (1.35 - 1)) * (Pressure * ((Volume - dV) / 1))) + ((1 / (1.35 - 
 ## Challenges Faced:
 As we are working on Real time data ,due to insufficient data our Machine Learning model got under fit after removing outliers.so we used Formula method to find Best Efficiency.
 
-## Innovation:
-## Scope:
 ## Purpose:
+Meet both the ends of the most practical energy conversion device.One side is diesel engines is needed in various sectors like industry and transport since its most reliable.Other side we have biofuels that are on par with diesel but they have some drawbacks if directly used.Through this project we can find which fuel combination at which load give best performance.Since Mechanical engineers don't know ML and Data Analytics difficult for them to work with huge datasets and precision.The  main aim is to predict engine performance without running the engines in the labs.Hence saves time,money spent on the engines.The energy of the technical workers would be saved and hence can be invested to better places.
+
+## Innovation:
+Project will predict behaviours/performance of diesel engine when filled with various combinations of biofuels Therefore it saves time and money spent on testing engine with biofuels.This will finally help in saving the harmful pollution elements released by the automobiles in the air
+
+## Scope:
+Since the results would be comparable with practically obtained results i.e experimental result.Hence we can rely on result and go for actual experiment with best performing point saving the time and money.These results can be used for validation since the precision rate would be higher.
+
 ## Contributors:
   - Santhana Lakshmi
   - Dikcha Singh
