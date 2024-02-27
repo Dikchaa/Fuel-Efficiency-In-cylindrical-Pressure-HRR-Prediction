@@ -130,6 +130,20 @@ Project will predict behaviours/performance of diesel engine when filled with va
 ## Scope:
 Since the results would be comparable with practically obtained results i.e experimental result.Hence we can rely on result and go for actual experiment with best performing point saving the time and money.These results can be used for validation since the precision rate would be higher.
 
+## Final Result:
+The results of brake thermal efficiencies calculated by using the formula mentioned are given below
+For CNSL and butanol blends 347 milligrams of CNSL and 90 milligrams of butanol will give the peak heat release rate of 213 J per CAD.
+387 milligrams of CNSL and 94 milligrams of methanol will give the peak heat release rate of 182 J per CAD.
+374 milligrams of CNSL and 71 milligrams of coconut oil will give the peak heat release rate of 182.677 J per CAD.
+334 milligrams of CNSL and 95 milligrams of cotton seed oil will give the peak heat release rate of 111 J per CAD.
+374 milligrams of CNSL and 63 milligrams of orange peel oil will give the peak heat release rate of 131 J per CAD.
+343 milligrams of CNSL and 96 milligrams of camphor will give the peak heat release rate of 147 J per CAD.
+381 milligrams of CNSL and 56  milligrams of di ethyl ether will give the peak heat release rate of 172 J per CAD.
+390 milligrams of CNSL and 65 milligrams of ethanol  will give the peak heat release rate of 166 J per CAD.
+
+## Conclusion:
+The conclusions drawn from the above study is 347 milligrams per second of CNSL and 90 milligrams per second of butanol gives the best heat release rate among the combinations tested, for an efficiency of 32% while delivering 5.2 kW power output.
+
 ## Contributors:
   - Santhana Lakshmi
   - Dikcha Singh
